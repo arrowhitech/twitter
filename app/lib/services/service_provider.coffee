@@ -1,3 +1,4 @@
+_ = require 'underscore'
 utils = require 'lib/utils'
 Subscriber = require 'chaplin/lib/subscriber'
 

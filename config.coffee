@@ -20,6 +20,7 @@ exports.config =
       # even if they are not present here.
       order:
         before: [
+          'vendor/scripts/require.js'
           'vendor/scripts/console-helper.js',
           'vendor/scripts/jquery-1.7.2.js',
           'vendor/scripts/underscore-1.3.1.js',

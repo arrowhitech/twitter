@@ -1,3 +1,5 @@
+Handlebars = require 'handlebars'
+
 # Application-specific view helpers
 # ---------------------------------
 
